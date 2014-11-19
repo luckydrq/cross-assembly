@@ -1,0 +1,12 @@
+{
+  "name": "cross-assembly",
+  "author": "luckydrq",
+  "email": "drqzju@gmail.com",
+  "version": "0.0.1",
+  "keywords": [
+    "cross",
+    "assembly",
+    "conditions"
+  ],
+  "main": "index.js"
+}
